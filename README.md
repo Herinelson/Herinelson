@@ -1,5 +1,5 @@
 # 💫 About Me:
-👯 I'm looking to collaborate on front end and back end development<br>🌱 I am currently learning JavaScript, HTML and CSS
+👯 I'm looking to collaborate on front end and back end development<br>
 
 
 ## 🌐 Socials:
